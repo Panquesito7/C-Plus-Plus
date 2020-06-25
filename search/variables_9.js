@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['max_3973',['MAX',['../d4/d32/fibonacci__fast_8cpp.html#a692ac7187ee88621a9f78fca78ec498d',1,'fibonacci_fast.cpp']]]
+  ['mat_5fsize_3973',['mat_size',['../d7/d35/matrix__exponentiation_8cpp.html#a9977ad12548c4a49dee9dc3f0685aa54',1,'matrix_exponentiation.cpp']]]
 ];
