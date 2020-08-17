@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md39", null ],
-      [ "Features", "index.html#autotoc_md40", null ],
-      [ "Documentation", "index.html#autotoc_md41", null ],
-      [ "Contributions", "index.html#autotoc_md42", null ]
+      [ "Overview", "index.html#autotoc_md40", null ],
+      [ "Features", "index.html#autotoc_md41", null ],
+      [ "Documentation", "index.html#autotoc_md42", null ],
+      [ "Contributions", "index.html#autotoc_md43", null ]
     ] ],
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md4", null ],
@@ -109,11 +109,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 ".html",
-"d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"d6/d80/double__hash__hash__table_8cpp.html#a4e9a7219d34e781e4e73d74a968b26c1",
-"d9/dee/classdouble__linked__list.html#a25f38dea0b69f2365fe67bdc35f8e0e2",
-"dc/dc5/paranthesis__matching_8cpp.html#af4c937d823c412d99fbe60c99dbf0a4f",
-"globals_m.html"
+"d4/d32/fibonacci__fast_8cpp.html#a5712edca101204eca8accdb1e096707f",
+"d6/d7b/sudoku__solve_8cpp.html",
+"d9/d69/median__search_8cpp.html",
+"dc/d93/trie__modern_8cpp.html",
+"globals_func_h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
