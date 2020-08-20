@@ -1,5 +1,6 @@
 var namespaces_dup =
 [
+    [ "activations", "d5/d39/namespaceactivations.html", null ],
     [ "backtracking", "db/dc0/namespacebacktracking.html", null ],
     [ "caesar", "dd/d81/namespacecaesar.html", null ],
     [ "ciphers", "d6/d4e/namespaceciphers.html", null ],
@@ -8,19 +9,24 @@ var namespaces_dup =
     [ "dynamic_programming", "dd/d24/namespacedynamic__programming.html", null ],
     [ "geometry", "d5/d5f/namespacegeometry.html", null ],
     [ "graph", "df/dce/namespacegraph.html", null ],
+    [ "heavy_light_decomposition", "db/d6f/namespaceheavy__light__decomposition.html", null ],
     [ "is_graph_bipartite", "de/d83/namespaceis__graph__bipartite.html", null ],
     [ "jarvis", "d5/da7/namespacejarvis.html", null ],
+    [ "layers", "d5/d2c/namespacelayers.html", null ],
     [ "linear_probing", "d8/d89/namespacelinear__probing.html", null ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", null ],
     [ "n_queens", "d3/da1/namespacen__queens.html", null ],
+    [ "neural_network", "d0/d2e/namespaceneural__network.html", null ],
     [ "qr_algorithm", "d2/d3b/namespaceqr__algorithm.html", null ],
     [ "quadratic_probing", "d4/dd2/namespacequadratic__probing.html", null ],
+    [ "range_queries", "dd/d69/namespacerange__queries.html", null ],
     [ "shortest_common_supersequence", "d3/deb/namespaceshortest__common__supersequence.html", null ],
     [ "sorting", "d5/d91/namespacesorting.html", null ],
     [ "spirograph", "da/dd3/namespacespirograph.html", null ],
     [ "statistics", "d2/dcf/namespacestatistics.html", null ],
     [ "std", "d8/dcc/namespacestd.html", null ],
     [ "string_search", "d9/d03/namespacestring__search.html", null ],
+    [ "util_functions", "d3/d17/namespaceutil__functions.html", null ],
     [ "vigenere", "d6/da2/namespacevigenere.html", null ],
     [ "XOR", "d7/d47/namespace_x_o_r.html", null ]
 ];
