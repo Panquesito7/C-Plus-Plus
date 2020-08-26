@@ -1,10 +1,5 @@
 var NAVTREEINDEX0 =
 {
-"":[7,0,3,0],
-"":[7,0,4,0],
-"":[7,0,6,0],
-"":[7,0,6,0,0],
-"":[7,0,8,0],
 "annotated.html":[7,0],
 "classes.html":[7,1],
 "d0/d01/smallest__circle_8cpp.html":[8,0,11,11],
@@ -59,11 +54,11 @@ var NAVTREEINDEX0 =
 "d1/d11/gcd__of__n__numbers_8cpp.html":[8,0,9,14],
 "d1/d11/gcd__of__n__numbers_8cpp.html#a25034543c20f271da04fb24ad2b2747a":[8,0,9,14,0],
 "d1/d11/gcd__of__n__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,14,1],
-"d1/d21/quick__sort_8cpp.html":[8,0,15,8],
-"d1/d21/quick__sort_8cpp.html#a50b66a1c652291b9a346ec7342967178":[8,0,15,8,2],
-"d1/d21/quick__sort_8cpp.html#a7e7f25f31c50523990437abf2ac3907e":[8,0,15,8,1],
-"d1/d21/quick__sort_8cpp.html#ad34859945724cc7de3cc71936715aec6":[8,0,15,8,3],
-"d1/d21/quick__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,8,0],
+"d1/d21/quick__sort_8cpp.html":[8,0,15,9],
+"d1/d21/quick__sort_8cpp.html#a50b66a1c652291b9a346ec7342967178":[8,0,15,9,2],
+"d1/d21/quick__sort_8cpp.html#a7e7f25f31c50523990437abf2ac3907e":[8,0,15,9,1],
+"d1/d21/quick__sort_8cpp.html#ad34859945724cc7de3cc71936715aec6":[8,0,15,9,3],
+"d1/d21/quick__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,9,0],
 "d1/d2a/knight__tour_8cpp.html":[8,0,0,1],
 "d1/d2a/knight__tour_8cpp.html#a531de8cb2d4d16ca63353d9c72158257":[8,0,0,1,0],
 "d1/d2a/knight__tour_8cpp.html#a932e38e8912742cedf7b5a837168e03a":[8,0,0,1,2],
@@ -249,5 +244,10 @@ var NAVTREEINDEX0 =
 "d3/d26/binary__search__tree_8cpp.html#ad7a062d9cfb533d97192fd65fad1415c":[8,0,2,2,3],
 "d3/d26/binary__search__tree_8cpp.html#adb338121baec7856c9593d79ddeb5e18":[8,0,2,2,6],
 "d3/d26/binary__search__tree_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,2,8],
-"d3/d26/binary__search__tree_8cpp.html#aebb1a5194a2cd7efe7ee7fc417e78293":[8,0,2,2,12]
+"d3/d26/binary__search__tree_8cpp.html#aebb1a5194a2cd7efe7ee7fc417e78293":[8,0,2,2,12],
+"d3/d40/graph__coloring_8cpp.html":[8,0,0,0],
+"d3/d40/graph__coloring_8cpp.html#a29360ddb1bad75caa61ec895b6e71986":[8,0,0,0,0],
+"d3/d40/graph__coloring_8cpp.html#a5a6c3c2b065ea1c07adf2f638f8efc43":[8,0,0,0,1],
+"d3/d40/graph__coloring_8cpp.html#a8cfb2d08840766ac4402196079308a36":[8,0,0,0,3],
+"d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,0,2]
 };
