@@ -1,5 +1,10 @@
 var NAVTREEINDEX5 =
 {
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a275227d01fbecdcf2f890b034fcea655":[7,0,4,0,0,5],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a477bf401cab737bb313f687b08fff082":[7,0,4,0,0,0],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a70dea3a7ae9738067e6b84abc192e429":[7,0,4,0,0,3],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9b0c6400693a5cfff971f768dd5ca5ca":[7,0,4,0,0,2],
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9d10768f927baa8a4d4a5ffce295b6b6":[7,0,4,0,0,6],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#ad8c10df34357b2cd865c81e0c4f0bd8c":[7,0,4,0,0,1],
 "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#aefea7ee87a708298c486d5a38ac628ef":[7,0,4,0,0,4],
 "de/d0d/fibonacci__search_8cpp.html":[8,0,14,2],
@@ -68,6 +73,7 @@ var NAVTREEINDEX5 =
 "df/d39/interpolation__search2_8cpp.html":[8,0,14,5],
 "df/d39/interpolation__search2_8cpp.html#aa3ec659ec8394d186c761df81ad1f629":[8,0,14,5,0],
 "df/d39/interpolation__search2_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,5,1],
+"df/d44/namespacen__queens__all__solutions.html":[6,0,17],
 "df/d82/breadth__first__search_8cpp.html":[8,0,5,0],
 "df/d82/breadth__first__search_8cpp.html#a59b4441a0e447469e9a4f61c87f33102":[8,0,5,0,1],
 "df/d82/breadth__first__search_8cpp.html#a618dce14b4883c20aace1d743d3a3f60":[8,0,5,0,2],
@@ -119,8 +125,8 @@ var NAVTREEINDEX5 =
 "dir_ece9b94c107bbaa1dd68197a8c9983b9.html":[8,0,7],
 "dir_f1797d0c2a0a12033e7d74efffeb14e1.html":[8,0,2,0],
 "files.html":[8,0],
-"functions.html":[7,3,0],
 "functions.html":[7,3,0,0],
+"functions.html":[7,3,0],
 "functions_a.html":[7,3,0,1],
 "functions_b.html":[7,3,0,2],
 "functions_c.html":[7,3,0,3],
@@ -198,8 +204,8 @@ var NAVTREEINDEX5 =
 "globals_u.html":[8,1,0,20],
 "globals_vars.html":[8,1,2],
 "hierarchy.html":[7,2],
-"index.html":[],
 "index.html":[0],
+"index.html":[],
 "index.html#autotoc_md40":[0,0],
 "index.html#autotoc_md41":[0,1],
 "index.html#autotoc_md42":[0,2],
@@ -211,8 +217,8 @@ var NAVTREEINDEX5 =
 "namespaces.html":[6,0],
 "pages.html":[],
 "":[7,0,6,0],
-"":[7,0,3,0],
-"":[7,0,8,0],
+"":[7,0,6,0,0],
 "":[7,0,4,0],
-"":[7,0,6,0,0]
+"":[7,0,8,0],
+"":[7,0,3,0]
 };

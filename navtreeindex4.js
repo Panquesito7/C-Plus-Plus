@@ -1,5 +1,10 @@
 var NAVTREEINDEX4 =
 {
+"db/d01/brent__method__extrema_8cpp.html#a6d0455dd5c30adda100e95f0423c786e":[8,0,10,1,6],
+"db/d01/brent__method__extrema_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,10,1,3],
+"db/d07/spiral__print_8cpp.html":[8,0,11,13],
+"db/d07/spiral__print_8cpp.html#a850d3f55e1a8d227176cdcc67352c197":[8,0,11,13,2],
+"db/d07/spiral__print_8cpp.html#acfff36db81326fb990a643ab198ee8a5":[8,0,11,13,0],
 "db/d07/spiral__print_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,13,1],
 "db/d0d/prime__factorization_8cpp.html":[8,0,9,23],
 "db/d0d/prime__factorization_8cpp.html#a0ece0145fb29a5cf48378c23dde2da46":[8,0,9,23,1],
@@ -122,13 +127,13 @@ var NAVTREEINDEX4 =
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html":[7,0,6,0,0,0],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a04b8e21316458436c8851959928c3964":[7,0,6,0,0,0,1],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2871146feaaa453558239df67b21e0d2":[7,0,6,0,0,0,2],
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2e3fb82813c0fb305d6330867dd42ac8":[7,0,6,0,0,0,10],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a51c2b942ecf10625780c6bb9d5c50ff1":[7,0,6,0,0,0,0],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a6385ad4d8186b8a74b17e4a8dc41da11":[7,0,6,0,0,0,6],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a6c859e3737aa88b29854df0347b29f4e":[7,0,6,0,0,0,4],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a8809e6df990f37c85c06474dd955cb2b":[7,0,6,0,0,0,5],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a891264e2eb1357b2b3282e5532250869":[7,0,6,0,0,0,7],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a8e4c57922478ccc2b7c6277c05608714":[7,0,6,0,0,0,8],
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#ab185a343b4fdd6b9fadc8ba877360101":[7,0,6,0,0,0,10],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#ac9cda9453c4a0caf5bae7f9213b019a0":[7,0,6,0,0,0,3],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#acc6cfdcc9d6e5170340abae63234a442":[7,0,6,0,0,0,9],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#ace9c37dd1322d3745de9713c90df8003":[7,0,6,0,0,0,11],
@@ -225,8 +230,8 @@ var NAVTREEINDEX4 =
 "dd/d65/lu__decompose_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,6,2],
 "dd/d65/lu__decompose_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,6,0],
 "dd/d65/lu__decompose_8cpp.html#a9459fcd1f020373d73eae2bad43786d0":[8,0,10,6,1],
+"dd/d69/namespacerange__queries.html":[6,0,21],
 "dd/d69/namespacerange__queries.html":[7,0,8],
-"dd/d69/namespacerange__queries.html":[6,0,20],
 "dd/d81/namespacecaesar.html":[6,0,2],
 "dd/d91/class_fenwick_tree.html":[7,0,17],
 "dd/d91/class_fenwick_tree.html#a115ff5c548b429b737ea09f75817d1f9":[7,0,17,4],
@@ -244,10 +249,5 @@ var NAVTREEINDEX4 =
 "dd/da8/pigeonhole__sort_8cpp.html#a458410412185a5f09199deaff7157a8d":[8,0,15,8,3],
 "dd/da8/pigeonhole__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,15,8,0],
 "dd/da8/pigeonhole__sort_8cpp.html#af31ec5409537703d9c8a47350386b32a":[8,0,15,8,4],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html":[7,0,4,0,0],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a275227d01fbecdcf2f890b034fcea655":[7,0,4,0,0,5],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a477bf401cab737bb313f687b08fff082":[7,0,4,0,0,0],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a70dea3a7ae9738067e6b84abc192e429":[7,0,4,0,0,3],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9b0c6400693a5cfff971f768dd5ca5ca":[7,0,4,0,0,2],
-"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html#a9d10768f927baa8a4d4a5ffce295b6b6":[7,0,4,0,0,6]
+"de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html":[7,0,4,0,0]
 };
