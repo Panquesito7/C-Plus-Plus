@@ -1,5 +1,15 @@
 var NAVTREEINDEX3 =
 {
+"d8/d77/namespacemachine__learning.html":[7,0,6],
+"d8/d89/namespacelinear__probing.html":[7,0,5],
+"d8/d89/namespacelinear__probing.html":[6,0,13],
+"d8/d8a/exponential__search_8cpp.html":[8,0,14,1],
+"d8/d8a/exponential__search_8cpp.html#a0f697e2a3b5193324ab84bd4045088f7":[8,0,14,1,0],
+"d8/d8a/exponential__search_8cpp.html#a67e9c84b4e2eb30e3c5170eabfbb363d":[8,0,14,1,2],
+"d8/d8a/exponential__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,1,1],
+"d8/d95/vector__ops_8hpp.html":[8,0,8,5],
+"d8/d95/vector__ops_8hpp.html#a05b9445c6ab65053b9bf9897a96af82d":[8,0,8,5,6],
+"d8/d95/vector__ops_8hpp.html#a1b42d24ad7bedbfa8e5b59fe96987a44":[8,0,8,5,1],
 "d8/d95/vector__ops_8hpp.html#a2055c2f3a076b3d4146aade5eb35666d":[8,0,8,5,11],
 "d8/d95/vector__ops_8hpp.html#a2a282c162e12f193c58232f26f0fa62d":[8,0,8,5,12],
 "d8/d95/vector__ops_8hpp.html#a4d136cbf20e3126ed9b934ab2d03f18b":[8,0,8,5,21],
@@ -239,15 +249,5 @@ var NAVTREEINDEX3 =
 "da/dd4/namespacemedian__search.html":[6,0,15],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[8,0,11,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[8,0,11,2,0],
-"da/df2/durand__kerner__roots_8cpp.html":[8,0,10,2],
-"da/df2/durand__kerner__roots_8cpp.html#a024b8bc4755863315456d573a6732377":[8,0,10,2,2],
-"da/df2/durand__kerner__roots_8cpp.html#a0283886819c7c140a023582b7269e2d0":[8,0,10,2,8],
-"da/df2/durand__kerner__roots_8cpp.html#a1440a7779ac56f47a3f355ce4a8c7da0":[8,0,10,2,7],
-"da/df2/durand__kerner__roots_8cpp.html#a212979f5fc9dcf0a420e90b9b21d780a":[8,0,10,2,1],
-"da/df2/durand__kerner__roots_8cpp.html#a3bada3e58ad8d1b00918db2ffe83a740":[8,0,10,2,3],
-"da/df2/durand__kerner__roots_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627":[8,0,10,2,5],
-"da/df2/durand__kerner__roots_8cpp.html#a51637ff89e55ca749993d3e84b95d153":[8,0,10,2,6],
-"da/df2/durand__kerner__roots_8cpp.html#ac38b9cfd2a39d856e0feba3b5d241ded":[8,0,10,2,4],
-"da/df2/durand__kerner__roots_8cpp.html#af270a96662132d0385cb6b4637c5a689":[8,0,10,2,0],
-"db/d01/brent__method__extrema_8cpp.html":[8,0,10,1]
+"da/df2/durand__kerner__roots_8cpp.html":[8,0,10,2]
 };
