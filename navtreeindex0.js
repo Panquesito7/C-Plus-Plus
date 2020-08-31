@@ -180,6 +180,7 @@ var NAVTREEINDEX0 =
 "d2/d2c/structtower.html#a3ebb75c13c57d51a8a1ba1ea54a515e9":[7,0,38,1],
 "d2/d2c/structtower.html#acb535964abd34c47678a4ade0628223d":[7,0,38,0],
 "d2/d3b/namespaceqr__algorithm.html":[6,0,19],
+"":[7,0,4,0],
 "d2/d52/heap__sort_8cpp.html":[8,0,15,4],
 "d2/d52/heap__sort_8cpp.html#a9ed3e1510afdf3edd06cf2b68769a767":[8,0,15,4,3],
 "d2/d52/heap__sort_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,15,4,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "d3/d40/graph__coloring_8cpp.html#a29360ddb1bad75caa61ec895b6e71986":[8,0,0,0,0],
 "d3/d40/graph__coloring_8cpp.html#a5a6c3c2b065ea1c07adf2f638f8efc43":[8,0,0,0,1],
 "d3/d40/graph__coloring_8cpp.html#a8cfb2d08840766ac4402196079308a36":[8,0,0,0,3],
-"d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,0,2],
-"d3/d4c/quick__sort__3_8cpp.html":[8,0,15,10]
+"d3/d40/graph__coloring_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,0,2]
 };

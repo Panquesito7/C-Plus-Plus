@@ -1,8 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/df6/check__amicable__pair_8cpp.html":[8,0,9,2],
-"d5/df6/check__amicable__pair_8cpp.html#ac656a51b4c3bd7d63b7dcc75dc3e5576":[8,0,9,2,2],
-"d5/df6/check__amicable__pair_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,9,2,3],
 "d5/df6/check__amicable__pair_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,2,1],
 "d5/df6/check__amicable__pair_8cpp.html#afeb67e204ec7de02ad152c11df4d1e01":[8,0,9,2,0],
 "d6/d26/classciphers_1_1_hill_cipher.html":[7,0,0,0],
@@ -17,6 +14,8 @@ var NAVTREEINDEX2 =
 "d6/d26/classciphers_1_1_hill_cipher.html#a7760f3665651a0a37937c79c62f219c0":[7,0,0,0,3],
 "d6/d26/classciphers_1_1_hill_cipher.html#a7ca10cd1a0e8e3732391e0427d2d0213":[7,0,0,0,5],
 "d6/d26/classciphers_1_1_hill_cipher.html#aa8bbb6e4a5749f6008b06602d5103917":[7,0,0,0,2],
+"d4/d5d/math_2armstrong__number_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,9,0,3],
+"d4/d5d/math_2armstrong__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,9,0,1],
 "d6/d26/classciphers_1_1_hill_cipher.html#abb2c4dc2b8a59d3dfe0fa22c2adc086b":[7,0,0,0,4],
 "d6/d26/classciphers_1_1_hill_cipher.html#ad667fa0860977f6d6d443fa1dbcd80aa":[7,0,0,0,0],
 "d6/d26/classciphers_1_1_hill_cipher.html#ae77cad522fa44b8c985779a7188d2f41":[7,0,0,0,7],
@@ -168,8 +167,6 @@ var NAVTREEINDEX2 =
 "d7/d35/matrix__exponentiation_8cpp.html#ae1d1ec9482079231e898236e2b23c9ba":[8,0,11,6,1],
 "d7/d35/matrix__exponentiation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,11,6,5],
 "d7/d47/namespace_x_o_r.html":[6,0,31],
-"d7/d65/shortest__common__supersequence_8cpp.html":[8,0,3,0],
-"d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,3,0,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#ad2ee8d7e67da9f6eb85146b08dad95e6":[8,0,3,0,1],
 "d7/d65/shortest__common__supersequence_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,3,0,0],
 "d7/d6a/bisection__method_8cpp.html":[8,0,10,0],
@@ -223,6 +220,7 @@ var NAVTREEINDEX2 =
 "d8/d10/structlist.html":[7,0,23],
 "d8/d10/structlist.html#a02290e44ad1bce31911fd995c65613ec":[7,0,23,8],
 "d8/d10/structlist.html#a1900fe79e875e2838625b2eb60837f8f":[7,0,23,10],
+"d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[8,0,3,0,2],
 "d8/d10/structlist.html#a1dfa9c59c5038a9e1bea0bb7f4c35178":[7,0,23,5],
 "d8/d10/structlist.html#a3c852e1981fe1d68e02deecb0b72e3a4":[7,0,23,11],
 "d8/d10/structlist.html#a4227479f0d8135e889e0a33fd4dbfc2e":[7,0,23,0],
@@ -249,5 +247,7 @@ var NAVTREEINDEX2 =
 "d8/d8a/exponential__search_8cpp.html":[8,0,14,1],
 "d8/d8a/exponential__search_8cpp.html#a0f697e2a3b5193324ab84bd4045088f7":[8,0,14,1,0],
 "d8/d8a/exponential__search_8cpp.html#a67e9c84b4e2eb30e3c5170eabfbb363d":[8,0,14,1,2],
-"d8/d8a/exponential__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,1,1]
+"d8/d8a/exponential__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,14,1,1],
+"d8/d95/vector__ops_8hpp.html":[8,0,8,5],
+"d8/d95/vector__ops_8hpp.html#a05b9445c6ab65053b9bf9897a96af82d":[8,0,8,5,6]
 };
