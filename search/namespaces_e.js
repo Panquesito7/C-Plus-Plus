@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['util_5ffunctions_2731',['util_functions',['../d3/d17/namespaceutil__functions.html',1,'']]]
+  ['qr_5falgorithm_2739',['qr_algorithm',['../d2/d3b/namespaceqr__algorithm.html',1,'']]],
+  ['quadratic_5fprobing_2740',['quadratic_probing',['../d4/dd2/namespacequadratic__probing.html',1,'']]]
 ];
