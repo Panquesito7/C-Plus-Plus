@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['others_2735',['others',['../d0/d6f/namespaceothers.html',1,'']]]
+  ['range_5fqueries_2719',['range_queries',['../dd/d69/namespacerange__queries.html',1,'']]]
 ];
