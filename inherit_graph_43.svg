@@ -9,9 +9,9 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 106)">
 <title>Graphical Class Hierarchy</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-106 260,-106 260,4 -4,4"/>
-<!-- Node13 -->
+<!-- Node14 -->
 <g id="node1" class="node">
-<title>Node13</title>
+<title>Node14</title>
 <g id="a_node1"><a xlink:href="d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html" target="_top" xlink:title="Segment Tree, to store heavy chains.">
 <polygon fill="white" stroke="black" points="0,-60.5 0,-101.5 110,-101.5 110,-60.5 0,-60.5"/>
 <text text-anchor="start" x="8" y="-89.5" font-family="Helvetica,sans-Serif" font-size="10.00">range_queries::heavy</text>
@@ -31,9 +31,9 @@
 </a>
 </g>
 </g>
-<!-- Node13&#45;&gt;Node1 -->
+<!-- Node14&#45;&gt;Node1 -->
 <g id="edge1" class="edge">
-<title>Node13&#45;&gt;Node1</title>
+<title>Node14&#45;&gt;Node1</title>
 <path fill="none" stroke="midnightblue" d="M119.99,-67.67C128.56,-65.88 137.28,-64.07 145.67,-62.32"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="119.11,-64.28 110.03,-69.74 120.53,-71.13 119.11,-64.28"/>
 </g>

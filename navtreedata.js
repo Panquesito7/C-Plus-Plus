@@ -26,10 +26,10 @@ var NAVTREE =
 [
   [ "Algorithms_in_C++", "index.html", [
     [ "The Algorithms - C++", "index.html", [
-      [ "Overview", "index.html#autotoc_md44", null ],
-      [ "Features", "index.html#autotoc_md45", null ],
-      [ "Documentation", "index.html#autotoc_md46", null ],
-      [ "Contributions", "index.html#autotoc_md47", null ]
+      [ "Overview", "index.html#autotoc_md46", null ],
+      [ "Features", "index.html#autotoc_md47", null ],
+      [ "Documentation", "index.html#autotoc_md48", null ],
+      [ "Contributions", "index.html#autotoc_md49", null ]
     ] ],
     [ "CONTRIBUTION GUIDELINES", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html", [
       [ "Before contributing", "d6/dcd/md__c_o_n_t_r_i_b_u_t_i_n_g.html#autotoc_md4", null ],
@@ -112,13 +112,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"d3/d26/binary__search__tree_8cpp.html#a13dac1586cbb95ebfd63dc47aeeff0e1",
+"annotated.html",
+"d3/d26/binary__search__tree_8cpp.html#a521ea77f195e491750e602292c6dc335",
 "d5/da1/structnode.html#a7ced285cc21c3454de45ff1965e1eb78",
-"d8/d10/structlist.html#a4c9cbc39d07f49b44700f6decd0978b4",
-"da/d9a/class_graph.html#aa0aaff1a0c13bdf209ea40b83ac01ae6",
-"dd/d29/false__position_8cpp.html",
-"globals_g.html"
+"d7/db9/hill__cipher_8cpp.html#a04391124480d2a49f2dec900237b0712",
+"da/d9a/class_graph.html#a6dc4dd4ce49c4052ad2a5d27523881f4",
+"dd/d1b/structquery.html#a1442afb70f26fd0655914632c0dcadcd",
+"globals_func_g.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

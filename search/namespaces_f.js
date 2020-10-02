@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['vigenere_2734',['vigenere',['../d6/da2/namespacevigenere.html',1,'']]]
+  ['range_5fqueries_2739',['range_queries',['../dd/d69/namespacerange__queries.html',1,'']]]
 ];
