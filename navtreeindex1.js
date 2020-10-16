@@ -1,5 +1,8 @@
 var NAVTREEINDEX1 =
 {
+"d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3":[9,0,2,2,4],
+"d3/d26/binary__search__tree_8cpp.html#a4392f2f3d0680befc1a6db07d94d6c5d":[9,0,2,2,11],
+"d3/d26/binary__search__tree_8cpp.html#a4a1aaff44d949318d93231e1fa5c7863":[9,0,2,2,5],
 "d3/d26/binary__search__tree_8cpp.html#a521ea77f195e491750e602292c6dc335":[9,0,2,2,7],
 "d3/d26/binary__search__tree_8cpp.html#a9e98619e1c6cea9d6c56849a16ecc416":[9,0,2,2,10],
 "d3/d26/binary__search__tree_8cpp.html#aa65d9b7fa9bd517ace3d819abc85c8b6":[9,0,2,2,2],
@@ -50,7 +53,7 @@ var NAVTREEINDEX1 =
 "d3/dce/linkedlist__implentation__usingarray_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,2,6,7],
 "d3/dce/linkedlist__implentation__usingarray_8cpp.html#aed19b403f559fc5d5a4bce724f9e263c":[9,0,2,6,9],
 "d3/dce/linkedlist__implentation__usingarray_8cpp.html#afcb07da7984e20b3207934696791f5df":[9,0,2,6,5],
-"d3/deb/namespaceshortest__common__supersequence.html":[7,0,30],
+"d3/deb/namespaceshortest__common__supersequence.html":[7,0,31],
 "d3/dfe/horspool_8cpp.html":[9,0,17,1],
 "d3/dfe/horspool_8cpp.html#a9884bca75ce39c116697ea2574adb37d":[9,0,17,1,1],
 "d3/dfe/horspool_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[9,0,17,1,3],
@@ -246,8 +249,5 @@ var NAVTREEINDEX1 =
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md46":[3,17],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47":[3,18],
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html":[8,0,7,0,0],
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[8,0,7,0,0,1],
-"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1":[8,0,7,0,0,0],
-"d5/d91/namespacesorting.html":[7,0,31],
-"d5/da1/structnode.html":[8,0,28]
+"d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#a6ae98710503b894b843d01cb69d5490c":[8,0,7,0,0,1]
 };
