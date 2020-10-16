@@ -82,6 +82,7 @@ var NAVTREE =
       [ "Strings", "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md47", null ]
     ] ],
     [ "Prime factorization", "d7/d7f/section.html", null ],
+    [ "Guidelines for reviewers and maintainers", "dc/db4/md__r_e_v_i_e_w_e_r__c_o_d_e.html", null ],
     [ "Todo List", "dd/da0/todo.html", null ],
     [ "Modules", "modules.html", "modules" ],
     [ "Namespaces", "namespaces.html", [
@@ -122,11 +123,11 @@ var NAVTREEINDEX =
 [
 "",
 "d3/d17/namespaceutil__functions.html",
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md37",
-"d7/d77/class_edge.html#aadbbb85298a21ecc2c17eeeadea65b01",
-"d9/dfd/comb__sort_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"dc/d93/trie__modern_8cpp.html",
-"dir_82e494173a87936756866de2fa774307.html"
+"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32",
+"d7/d77/class_edge.html#a415a5d002fe11c58711e48aabe975980",
+"d9/df0/fast__integer__input_8cpp.html#a4e097ac8509b717bdc8ab09ecd86ae82",
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a891264e2eb1357b2b3282e5532250869",
+"dir_12552d7fa429bf94a2e32e5cf39f7e69.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
