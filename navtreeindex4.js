@@ -1,5 +1,11 @@
 var NAVTREEINDEX4 =
 {
+"da/d5a/class_complex.html#a820afcbb330df716577459d7a3aa3a1c":[8,0,14,6],
+"da/d5a/class_complex.html#a843ce2f85af4c57db9063c86f3cd9607":[8,0,14,13],
+"da/d5a/class_complex.html#a889215b7b004a3e7ec4d785ca5e7a2ba":[8,0,14,9],
+"da/d5a/class_complex.html#a8d5427f6c42c15283031d73e1418c59d":[8,0,14,10],
+"da/d5a/class_complex.html#aa9b4a7d6083ca7040ddd4fe93db5c19d":[8,0,14,5],
+"da/d5a/class_complex.html#ac38437c10eb798f176c384a695171b90":[8,0,14,8],
 "da/d5a/class_complex.html#ae1e03712837450549e0c9b4017533a41":[8,0,14,3],
 "da/d5a/class_complex.html#ae5b51b749ea4964104b9527af9d8f556":[8,0,14,2],
 "da/d5a/class_complex.html#af8aacf982e2e6c142921bc850f6dc974":[8,0,14,4],
@@ -66,7 +72,7 @@ var NAVTREEINDEX4 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[8,0,8,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[8,0,8,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[8,0,8,0,0],
-"da/dd3/namespacespirograph.html":[7,0,33],
+"da/dd3/namespacespirograph.html":[7,0,34],
 "da/dd4/namespacemedian__search.html":[7,0,19],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[9,0,12,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[9,0,12,2,0],
@@ -243,11 +249,5 @@ var NAVTREEINDEX4 =
 "dc/db5/struct_queue.html#aa14801d5c5fea47f3d08483d103e0b57":[8,0,32,5],
 "dc/db5/struct_queue.html#abab0f9fbb31ee24a0130523c3562c863":[8,0,32,9],
 "dc/db5/struct_queue.html#af679dbf13749275935f617ac6ab0f9e9":[8,0,32,4],
-"dc/db5/text__search_8cpp.html":[9,0,15,10],
-"dc/db5/text__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[9,0,15,10,0],
-"dc/dc5/paranthesis__matching_8cpp.html":[9,0,12,8],
-"dc/dc5/paranthesis__matching_8cpp.html#a392fb874e547e582e9c66a08a1f23326":[9,0,12,8,0],
-"dc/dc5/paranthesis__matching_8cpp.html#a6d25c7dfbfeb52c3cb9d1b56ab49b664":[9,0,12,8,3],
-"dc/dc5/paranthesis__matching_8cpp.html#aa37d24a036d239b3b528f13b9de880c7":[9,0,12,8,5],
-"dc/dc5/paranthesis__matching_8cpp.html#aae41c72130114bf31204cde6873b6095":[9,0,12,8,4]
+"dc/db5/text__search_8cpp.html":[9,0,15,10]
 };

@@ -124,9 +124,9 @@ var NAVTREEINDEX =
 "d3/d26/binary__search__tree_8cpp.html#a1ca1e6aad9a9e45c1d21a7c8f61bccc3",
 "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html#af06360122e20ce2ba32c574a27a20ba1",
 "d7/d83/trie__tree_8cpp.html",
-"da/d5a/class_complex.html#ae1e03712837450549e0c9b4017533a41",
-"dc/dc5/paranthesis__matching_8cpp.html#ade525d33459755a32ba21e1b6910ff21",
-"functions_func.html"
+"da/d5a/class_complex.html#a820afcbb330df716577459d7a3aa3a1c",
+"dc/db5/text__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"functions_b.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
