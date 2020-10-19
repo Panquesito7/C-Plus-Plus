@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d9/dee/classdouble__linked__list.html#a81a7f2c5fa23359b9ddd541a6c8b49f9":[9,0,16,5],
 "d9/dee/classdouble__linked__list.html#a999c63fbdcc64f1fd367282d417a991e":[9,0,16,0],
 "d9/df0/fast__integer__input_8cpp.html":[10,0,12,4],
 "d9/df0/fast__integer__input_8cpp.html#a4e097ac8509b717bdc8ab09ecd86ae82":[10,0,12,4,0],
@@ -98,7 +99,7 @@ var NAVTREEINDEX4 =
 "da/dd1/structquadratic__probing_1_1_entry.html":[9,0,8,0],
 "da/dd1/structquadratic__probing_1_1_entry.html#a75f72858f08a2fc8b94402de98db12d8":[9,0,8,0,1],
 "da/dd1/structquadratic__probing_1_1_entry.html#a9df1118010a233d13ab3dd699bcb513e":[9,0,8,0,0],
-"da/dd3/namespacespirograph.html":[8,0,37],
+"da/dd3/namespacespirograph.html":[8,0,38],
 "da/dd4/namespacemedian__search.html":[8,0,20],
 "da/de7/decimal__to__hexadecimal_8cpp.html":[10,0,12,2],
 "da/de7/decimal__to__hexadecimal_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe":[10,0,12,2,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "dc/d5a/rat__maze_8cpp.html":[10,0,0,6],
 "dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,0,6,2],
 "dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[10,0,0,6,1],
-"dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,6,0],
-"dc/d61/classgraph_1_1_graph.html":[9,0,4,1]
+"dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,6,0]
 };
