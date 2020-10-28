@@ -1,5 +1,9 @@
 var NAVTREEINDEX2 =
 {
+"d5/d67/complex__numbers_8cpp.html#af738b2a6921f0a6868bb7c5b4c0d18e0":[10,0,10,5,3],
+"d5/d83/lcm__sum_8cpp.html":[10,0,10,19],
+"d5/d83/lcm__sum_8cpp.html#a04065193d190d605e1f0d0d93a87e244":[10,0,10,19,0],
+"d5/d83/lcm__sum_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,10,19,2],
 "d5/d83/lcm__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,10,19,1],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html":[3],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md29":[3,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d6a/bisection__method_8cpp.html#a002b2f4894492820fe708b1b7e7c5e70":[10,0,11,0,0],
 "d7/d6a/bisection__method_8cpp.html#a0a3abbca80bc98e7abcb3ae73abe0f14":[10,0,11,0,1],
 "d7/d6a/bisection__method_8cpp.html#a1ab31b90bc584c635ec159468ceed9b2":[10,0,11,0,4],
-"d7/d6a/bisection__method_8cpp.html#a2003b5b2dcfff0769b957ab5c968b03d":[10,0,11,0,2],
-"d7/d6a/bisection__method_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,0,3],
-"d7/d75/postfix__evaluation_8cpp.html":[10,0,12,10],
-"d7/d75/postfix__evaluation_8cpp.html#a421baa2002a64bc0bfc3e1b64800d734":[10,0,12,10,4],
-"d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a":[10,0,12,10,2]
+"d7/d6a/bisection__method_8cpp.html#a2003b5b2dcfff0769b957ab5c968b03d":[10,0,11,0,2]
 };

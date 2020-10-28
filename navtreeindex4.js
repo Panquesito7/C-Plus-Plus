@@ -1,5 +1,9 @@
 var NAVTREEINDEX4 =
 {
+"d9/d69/median__search_8cpp.html#a868847218f694e78bf433a0ff7648bae":[10,0,15,8,1],
+"d9/d69/median__search_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[10,0,15,8,2],
+"d9/d69/median__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,15,8,0],
+"d9/d89/fibonacci_8cpp.html":[10,0,10,11],
 "d9/d89/fibonacci_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,10,11,2],
 "d9/d89/fibonacci_8cpp.html#aaf94f3212385cff0a5f19ff6b0cce8e7":[10,0,10,11,0],
 "d9/d89/fibonacci_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,10,11,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "db/dd3/ode__forward__euler_8cpp.html#af3adf7b092a87868917ee5fb4255192b":[10,0,11,9,0],
 "db/df3/happy__number_8cpp.html":[10,0,12,5],
 "db/df3/happy__number_8cpp.html#a00ccdb1166a7c83ac3c33ac67a2532b7":[10,0,12,5,0],
-"db/df3/happy__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,5,1],
-"dc/d1a/pascal__triangle_8cpp.html":[10,0,12,9],
-"dc/d1a/pascal__triangle_8cpp.html#ad7a31d9cb2818d21b1ba12aead7f4c5c":[10,0,12,9,2],
-"dc/d1a/pascal__triangle_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,9,0],
-"dc/d1a/pascal__triangle_8cpp.html#afd3f52dd56ddedbf7af5d26a202a199e":[10,0,12,9,1]
+"db/df3/happy__number_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,5,1]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"dc/d1a/pascal__triangle_8cpp.html":[10,0,12,9],
+"dc/d1a/pascal__triangle_8cpp.html#ad7a31d9cb2818d21b1ba12aead7f4c5c":[10,0,12,9,2],
+"dc/d1a/pascal__triangle_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,9,0],
+"dc/d1a/pascal__triangle_8cpp.html#afd3f52dd56ddedbf7af5d26a202a199e":[10,0,12,9,1],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html":[10,0,9,4],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a30acf52af3184bc22274234ef5a73536":[10,0,9,4,12],
 "dc/d38/ordinary__least__squares__regressor_8cpp.html#a31be3fe36e76b87d5616ff8e7918cd24":[10,0,9,4,11],
@@ -245,9 +249,5 @@ var NAVTREEINDEX5 =
 "de/de4/fibonacci__large_8cpp.html#adf3e906875ab257f7fab3bc1370aa2db":[10,0,10,13,0],
 "df/d06/decimal__to__binary_8cpp.html":[10,0,12,1],
 "df/d06/decimal__to__binary_8cpp.html#a10df57491019f0ac39b492740fb388f7":[10,0,12,1,2],
-"df/d06/decimal__to__binary_8cpp.html#a9240f2e79074a2a248395258aebbfa11":[10,0,12,1,1],
-"df/d06/decimal__to__binary_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,12,1,0],
-"df/d10/namespacepancake__sort.html":[8,0,31],
-"df/d39/interpolation__search2_8cpp.html":[10,0,15,5],
-"df/d39/interpolation__search2_8cpp.html#aa3ec659ec8394d186c761df81ad1f629":[10,0,15,5,0]
+"df/d06/decimal__to__binary_8cpp.html#a9240f2e79074a2a248395258aebbfa11":[10,0,12,1,1]
 };
