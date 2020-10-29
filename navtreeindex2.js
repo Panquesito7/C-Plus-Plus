@@ -1,5 +1,9 @@
 var NAVTREEINDEX2 =
 {
+"d5/d67/complex__numbers_8cpp.html":[10,0,10,5],
+"d5/d67/complex__numbers_8cpp.html#a5a73e9d4e68af8cedb95bd0864054b89":[10,0,10,5,4],
+"d5/d67/complex__numbers_8cpp.html#a5d4d5b8250b50703de888514c8e7a7a0":[10,0,10,5,1],
+"d5/d67/complex__numbers_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,10,5,5],
 "d5/d67/complex__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,10,5,2],
 "d5/d67/complex__numbers_8cpp.html#af738b2a6921f0a6868bb7c5b4c0d18e0":[10,0,10,5,3],
 "d5/d83/lcm__sum_8cpp.html":[10,0,10,19],
@@ -245,9 +249,5 @@ var NAVTREEINDEX2 =
 "d7/d65/shortest__common__supersequence_8cpp.html":[10,0,3,4],
 "d7/d65/shortest__common__supersequence_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,3,4,2],
 "d7/d65/shortest__common__supersequence_8cpp.html#ad2ee8d7e67da9f6eb85146b08dad95e6":[10,0,3,4,1],
-"d7/d65/shortest__common__supersequence_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,3,4,0],
-"d7/d6a/bisection__method_8cpp.html":[10,0,11,0],
-"d7/d6a/bisection__method_8cpp.html#a002b2f4894492820fe708b1b7e7c5e70":[10,0,11,0,0],
-"d7/d6a/bisection__method_8cpp.html#a0a3abbca80bc98e7abcb3ae73abe0f14":[10,0,11,0,1],
-"d7/d6a/bisection__method_8cpp.html#a1ab31b90bc584c635ec159468ceed9b2":[10,0,11,0,4]
+"d7/d65/shortest__common__supersequence_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,3,4,0]
 };
