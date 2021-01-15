@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['data_5fstructures_2875',['data_structures',['../d5/d3c/namespacedata__structures.html',1,'']]],
-  ['double_5fhashing_2876',['double_hashing',['../d0/d65/namespacedouble__hashing.html',1,'']]],
-  ['dynamic_5fprogramming_2877',['dynamic_programming',['../dd/d24/namespacedynamic__programming.html',1,'']]]
+  ['data_5fstructures_2881',['data_structures',['../d5/d3c/namespacedata__structures.html',1,'']]],
+  ['disjoint_5funion_2882',['disjoint_union',['../de/db4/namespacedisjoint__union.html',1,'']]],
+  ['double_5fhashing_2883',['double_hashing',['../d0/d65/namespacedouble__hashing.html',1,'']]],
+  ['dynamic_5fprogramming_2884',['dynamic_programming',['../dd/d24/namespacedynamic__programming.html',1,'']]]
 ];
