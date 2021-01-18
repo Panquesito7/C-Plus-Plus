@@ -123,13 +123,16 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"d2/de9/heavy__light__decomposition_8cpp.html",
-"d4/df4/classmachine__learning_1_1neural__network_1_1_neural_network.html#afa4a080c9526909ea87a6c0f6cfd6a2f",
-"d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76",
-"d8/dc8/struct_point.html",
-"da/df2/durand__kerner__roots_8cpp.html#af270a96662132d0385cb6b4637c5a689",
-"dd/d40/classdata__structures_1_1tree__234_1_1_node.html#a2753b6053b8c86c5bd987a44fdfa0a57",
-"functions_func_t.html"
+"cpp/iterator/distance.html",
+"cpp/thread/lock.html",
+"d2/d22/jump__search_8cpp.html",
+"d4/d83/sum__of__digits_8cpp.html#a0283886819c7c140a023582b7269e2d0",
+"d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html#a2aaf88c9954ef3ab686f8e4bfbd87622",
+"d7/d89/double__factorial_8cpp.html",
+"d9/d35/classrange__queries_1_1heavy__light__decomposition_1_1_s_g.html#a41c733f5f5e262b308f7cb95c88c1e74",
+"db/d71/quadratic__probing__hash__table_8cpp.html#adccc63a7e57cc6dba75bd62f40feb88b",
+"dd/d4f/class_solution.html#af1fcd3d8160363baa35a079244eb2e91",
+"functions_q.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
