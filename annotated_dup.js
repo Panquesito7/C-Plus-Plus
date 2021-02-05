@@ -8,6 +8,9 @@ var annotated_dup =
         [ "link", "de/d9d/classdata__structures_1_1linked__list_1_1link.html", "de/d9d/classdata__structures_1_1linked__list_1_1link" ],
         [ "list", "d1/def/classdata__structures_1_1linked__list_1_1list.html", "d1/def/classdata__structures_1_1linked__list_1_1list" ]
       ] ],
+      [ "list_array", null, [
+        [ "list", "d5/dab/structdata__structures_1_1list__array_1_1list.html", "d5/dab/structdata__structures_1_1list__array_1_1list" ]
+      ] ],
       [ "queue_using_array", null, [
         [ "Queue_Array", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array.html", "d6/d04/classdata__structures_1_1queue__using__array_1_1_queue___array" ]
       ] ],
@@ -73,6 +76,7 @@ var annotated_dup =
       [ "stats_computer1", "d7/d7c/classstatistics_1_1stats__computer1.html", "d7/d7c/classstatistics_1_1stats__computer1" ],
       [ "stats_computer2", "d8/dab/classstatistics_1_1stats__computer2.html", "d8/dab/classstatistics_1_1stats__computer2" ]
     ] ],
+    [ "binary_search_tree", "d9/dde/classbinary__search__tree.html", "d9/dde/classbinary__search__tree" ],
     [ "Btree", "d9/d90/struct_btree.html", "d9/d90/struct_btree" ],
     [ "cll", "d5/d15/classcll.html", "d5/d15/classcll" ],
     [ "compare", "d1/db3/structcompare.html", "d1/db3/structcompare" ],

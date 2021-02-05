@@ -1,6 +1,8 @@
 var hierarchy =
 [
     [ "machine_learning::adaline", "d6/d30/classmachine__learning_1_1adaline.html", null ],
+    [ "binary_search_tree< T >", "d9/dde/classbinary__search__tree.html", null ],
+    [ "binary_search_tree< T >::bst_node", "dd/db6/structbinary__search__tree_1_1bst__node.html", null ],
     [ "Btree", "d9/d90/struct_btree.html", null ],
     [ "cll", "d5/d15/classcll.html", null ],
     [ "compare", "d1/db3/structcompare.html", null ],
@@ -27,6 +29,7 @@ var hierarchy =
     [ "data_structures::linked_list::link", "de/d9d/classdata__structures_1_1linked__list_1_1link.html", null ],
     [ "linkedlist", "d0/dff/structlinkedlist.html", null ],
     [ "data_structures::linked_list::list", "d1/def/classdata__structures_1_1linked__list_1_1list.html", null ],
+    [ "data_structures::list_array::list", "d5/dab/structdata__structures_1_1list__array_1_1list.html", null ],
     [ "list", "d8/d10/structlist.html", null ],
     [ "graph::LowestCommonAncestor", "d9/d23/classgraph_1_1_lowest_common_ancestor.html", null ],
     [ "MinHeap", "d2/d05/class_min_heap.html", null ],
