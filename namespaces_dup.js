@@ -1,5 +1,6 @@
 var namespaces_dup =
 [
+    [ "abbreviation", "d0/df8/namespaceabbreviation.html", null ],
     [ "activations", "d5/d39/namespaceactivations.html", null ],
     [ "backtracking", "db/dc0/namespacebacktracking.html", [
       [ "n_queens", null, [
